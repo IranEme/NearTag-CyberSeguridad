@@ -9,8 +9,8 @@ Se evaluó la validación de los campos de entrada al intentar registrar o modif
 ## Evidencia
 
   *Intento de registro o modificación usando caracteres especiales en el campo `username` o `email`: el sistema aceptó y mostró los datos enviados.*
+  
 ![Captura desde 2025-05-28 19-53-19](https://github.com/user-attachments/assets/493ab37f-4e5e-49fa-89e9-58ef8f76c9de)
-
 ![Captura desde 2025-05-28 19-53-45](https://github.com/user-attachments/assets/7141acd0-4678-4d67-bf2e-9d734da9819e)
 
 ---
